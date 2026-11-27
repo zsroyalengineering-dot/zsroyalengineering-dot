@@ -13,6 +13,11 @@ I build AI-powered agents and intelligent automation workflows that connect busi
 ---
 
 ## 👨‍💻 About Me
+AI Automation Engineer with hands-on project experience designing, building and testing seven AI-powered workflows
+using n8n, Make.com, OpenAI, Google Gemini and Claude. Skilled in AI agent workflows, LLM integration, Retrieval- Augmented Generation (RAG), Model Context Protocol (MCP), prompt engineering, REST APIs, webhooks, JSON
+processing and workflow orchestration. Built solutions for customer support, lead qualification, inquiry triage, job alerts and
+multimedia automation. Basic working knowledge of JavaScript and Python, backed by a B.Sc. in Computer Science &
+Engineering and 18+ years of telecommunications engineering experience.
 
 - 🤖 Focused on AI agents, workflow automation, and practical LLM integrations.
 - ⚙️ Build automation workflows with **n8n** and **Make.com**.
